@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Felipe Marques! 👋
 
-<!--
-**jogaurso/jogaurso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Sistemas Embarcados na FATEC Jundiaí** e entusiasta de programação. Gosto de ver a lógica se moldando no mundo real, seja através de hardware (IoT) ou em ambientes virtuais complexos (Engenharia de Software e Games).
 
-Here are some ideas to get you started:
+### 🚀 O que estou desenvolvendo:
+- **IoT & Sistemas:** Integração de hardware e protocolos de comunicação (MQTT, APIs).
+- **Simulação em Tempo Real:** Explorando física e performance com C# e Unity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Minhas Ferramentas:
+- **Linguagens:** Python (MicroPython), C/C++, C#, SQL.
+- **Ecossistema:** Git, GitHub, Node-RED, Wokwi (Simulação).
+- **Foco:** Sistemas Embarcados e IoT. 
+
+### 📫 Vamos nos conectar?
+- [LinkedIn](https://www.linkedin.com/in/felipe-marques2)
+- Email: lipemarques040@gmail.com
+
+> "Transformando código abstrato em soluções palpáveis."
